@@ -1,16 +1,17 @@
-### Hi there 👋
+                                            Hi 👋, I'm Danmushka Madushan
 
-<!--
-**danushkacodeolima/danushkacodeolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                
+🌱 I’m currently learning MERN
 
-Here are some ideas to get you started:
+💬 Ask me about Html, CSS, C#, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me danushka95codeolima@gmail.com
+
+Connect with me:
+
+https://www.linkedin.com/in/danushka-madushan-973a6921a https://web.facebook.com/lahiru.lakmina.12
+
+Languages and Tools:
+c# python html css bootstrap 
+
+danushka95acodeolima
